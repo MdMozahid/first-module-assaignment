@@ -282,11 +282,11 @@ body {
 
 .email-input {
      padding: 20px 450px 20px 20px;
-     margin-left: 287px;
+     margin-left: 260px;
      border-radius: 8px;
      background-color: #FFF;
      position: relative;
-     right: -400px;
+     right: -1px;
 
 }
 
@@ -295,9 +295,9 @@ body {
      margin-left: 490px;
      padding: 30px 30px 30px 30px;
      position: relative;
-     left: -3px;
+     left: -1px;
      top: -91px;
-
+     
 }
 
 /* footer related style */
