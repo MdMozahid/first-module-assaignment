@@ -190,16 +190,61 @@ body {
      margin-bottom: 40px;
 }
 
-.email-input{
-     padding:20px 450px 20px 20px ;
-     margin-left:287px ;
+.email-input {
+     padding: 20px 450px 20px 20px;
+     margin-left: 287px;
      border-radius: 8px;
-     background-color:  #FFF;
-}     
-.Subscribe{
+     background-color: #FFF;
+}
+
+.Subscribe {
      text-align: center;
      margin-left: 490px;
      padding: 30px 30px 30px 30px;
-     position: relative;left: -3px; top: -91px;
-      
+     position: relative;
+     left: -3px;
+     top: -91px;
+
+}
+
+/* footer related style */
+
+.all-footer {
+     background-color: #111010;
+}
+
+.shop-color {
+     color: rgba(255, 255, 255, 1);
+}
+
+.footer-head {
+     text-align: center;
+     padding-top: 100px;
+     font-size: 48px;
+     font-weight: 800;
+     margin-top: 70px;
+
+}
+
+.footer-description {
+     text-align: center;
+     margin-top: 15px;
+     padding: 0px 400px 0px 400px;
+     color: rgba(255, 255, 255, 0.90);
+     font-size: 18px;
+     font-weight: 400;
+     line-height: 30px;
+
+}
+
+.right {
+     text-align: center;
+     margin-top: 18px;
+     padding-bottom: 128px;
+     color: rgba(255, 255, 255, 0.40);
+     font-size: 16px;
+     font-weight: 400;
+
+
+
 }
