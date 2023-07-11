@@ -116,18 +116,18 @@ body {
      font-size: 40px;
      font-weight: 800;
      margin-top: 100px;
-     background-color:#FFF;;
+     background-color: #FFF;
 }
 
-#social-mania {
-     padding: 15px 600px 45px 600px;
+.social-media-discription {
+     padding: 15px 400px 45px 400px;
      color: rgba(39, 39, 39, 0.60);
      text-align: center;
      font-size: 18px;
      font-weight: 400;
-     line-height: 30px;
-     margin-top: 5px;
-     margin-bottom: 25px;
+     line-height: 25px;
+     width: 800px;
+     margin-top: 12px;
 }
 
 .insta-pic {
@@ -158,4 +158,48 @@ body {
 .insta-pic-four {
      width: 342px;
      height: 396px;
+}
+
+/* latest deal section */
+.header {
+     background-image: url('../style.css/image/Rectangle\ 9.png');
+     background-repeat: no-repeat;
+     background-size: cover;
+     margin-top: 80px;
+
+
+}
+
+
+.latest-deal-head {
+     text-align: center;
+     color: #272727;
+     font-size: 40px;
+     font-weight: 800;
+     padding-top: 100px;
+     margin-bottom: 15px;
+
+}
+
+.latest-deal-description {
+     color: rgba(39, 39, 39, 0.60);
+     text-align: center;
+     font-size: 18px;
+     font-weight: 400;
+     line-height: 30px;
+     margin-bottom: 40px;
+}
+
+.email-input{
+     padding:20px 450px 20px 20px ;
+     margin-left:287px ;
+     border-radius: 8px;
+     background-color:  #FFF;
+}     
+.Subscribe{
+     text-align: center;
+     margin-left: 490px;
+     padding: 30px 30px 30px 30px;
+     position: relative;left: -3px; top: -91px;
+      
 }
